@@ -2,11 +2,18 @@
 ### [System Supporting Student Internships](https://github.com/igordzie97/student-interhsips-system)
 *Engineer thesis project.* 
 
-System as Web Application, allows registration of the students, adding companies that organise internships, adding documents, approving documents by companies and universities supervisors, communicating with integrated communication system.
+System as Web Application, allows: 
+- Registration of the students
+- Adding companies that organise internships 
+- Adding documents
+- Approving documents by companies and universities supervisors
+- Communicating with integrated communication system
 
 **Technologies:** 
 - Java + Spring Boot - Backend
 - Vue.js - Frontend
+- MySQL - Relational Database Management System
+- Hibernate - Object-Relational Mapping framework
 
 ### [API Test Aumation - Cypress](https://github.com/igordzie97/cypress-api-automation)
 Project constists tests of several controllers. They are written using Cypress and TypeScript. Project structure is organised similar to Page Object Pattern - Controller (similarity to Page), Controller Methods (similarity to Page Objects). Whole app is containerized using Docker.
@@ -38,8 +45,24 @@ The project purpose is to implement system executing basic operations on Northwi
 - Docker - App containerization
 
 ### [Librario](https://github.com/igordzie97/librario-project)
+The project puropse is to create a web app which will support library activities, for example:
+- Employee management
+- Users management - registration, login, account edition
+- Sources management - authors and books
+- Borrowing books by end-users.
+
+**Technologies:**
+- Java + Spring Boot - Backend
+- Vue.js - Frontend
+- MySQL - Relational Database Management System
+- Hibernate - Object-Relational Mapping framework
 
 ### [Java to Python Translator](https://github.com/igordzie97/java-to-python-translator)
+The project puropse is to implement translator from subset of Java language to Python. During implementation it is essential to use specific lexer and parser generator (depending on selected programming language).
+
+**Technologies:**
+- Java - Translator implementation
+- ANTLR - Lexer and parser generator
 
 ## Laboratory classes
 ### [Databases](https://github.com/igordzie97/databases-frameworks)
