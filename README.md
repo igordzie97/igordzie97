@@ -1,6 +1,6 @@
 ## My projects / Repositories
 ### [System Supporting Student Internships](https://github.com/igordzie97/student-interhsips-system)
-*Engineer thesis project.* 
+The engineer thesis purpose is to design and implement system which will support process of student internships. The main goal of the system is to simplifie and digitize whole process.
 
 System as Web Application, allows: 
 - Registration of the students
