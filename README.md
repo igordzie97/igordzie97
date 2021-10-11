@@ -1,8 +1,8 @@
 ## My projects / Repositories
 ### [System Supporting Student Internships](https://github.com/igordzie97/student-interhsips-system)
-The engineer thesis purpose is to design and implement system which will support process of student internships. The main goal of the system is to simplifie and digitize whole process.
+The engineer thesis purpose is to design and implement the system which will support process of student internships. The main goal of the system is to simplifie and digitize whole process.
 
-System as Web Application, allows: 
+System as a web application, allows: 
 - Registration of the students
 - Adding companies that organise internships 
 - Adding documents
@@ -24,7 +24,7 @@ Project constists tests of several controllers. They are written using Cypress a
 - Docker - Containerization
 
 ### [Bookstore](https://github.com/igordzie97/bookstore-microservices)
-The project puropse is to create the backend system which will support the bookstore activities. System architecture is based on microservices.
+The project puropse is to create a backend system which will support the bookstore activities. System architecture is based on microservices.
 
 **Technologies:**
 - Java + Spring Boot - Backend
@@ -36,7 +36,7 @@ The project puropse is to create the backend system which will support the books
 - Docker / Docker Swarm - App containerization
 
 ### [Northwind database - MongoDB](https://github.com/igordzie97/mongodb-databases-project)
-The project purpose is to implement system executing basic operations on Northwind database. It is used MongoDB as an example of Document-oriented database.
+The project purpose is to implement the system executing basic operations on Northwind database. It is used MongoDB as an example of Document-oriented database.
 
 **Technologies:** 
 - MongoDB - NoSQL database management system
@@ -45,7 +45,7 @@ The project purpose is to implement system executing basic operations on Northwi
 - Docker - App containerization
 
 ### [Librario](https://github.com/igordzie97/librario-project)
-The project puropse is to create a web app which will support library activities, for example:
+The project puropse is to create the web app which will support library activities, for example:
 - Employee management
 - Users management - registration, login, account edition
 - Sources management - authors and books
@@ -58,7 +58,7 @@ The project puropse is to create a web app which will support library activities
 - Hibernate - Object-Relational Mapping framework
 
 ### [Java to Python Translator](https://github.com/igordzie97/java-to-python-translator)
-The project puropse is to implement translator from subset of Java language to Python. During implementation it is essential to use specific lexer and parser generator (depending on selected programming language).
+The project puropse is to implement the translator from subset of Java language to Python. During implementation it is essential to use specific lexer and parser generator (depending on selected programming language).
 
 **Technologies:**
 - Java - Translator implementation
